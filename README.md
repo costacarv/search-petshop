@@ -1,2 +1,3 @@
 # ProjetoCanil
- esse é um site com o padrão mvc simulando um petshop virtual
+## Site simulando um petshop virtual
+### com o padrão mvc
